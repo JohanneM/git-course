@@ -1,2 +1,2 @@
 # git-course
-Git course repository
+Git course repository. Jesus, dit is even saai
